@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">E-Register</string>
+    <string name="action_add">Add Subject</string>
+    <string name="enter_subject_name">Enter Subject Name</string>
+    <string name="save">SAVE</string>
+    <string name="ref">Refresh</string>
+    <string name="name">Name</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="admission_number">Admission Number(Must be UNIQUE)</string>
+    <string name="contact">Contact</string>
+    <string name="add_students">Add Students</string>
+    <string name="view_students">View Students</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="enter_lecture_number">Enter Lecture Number</string>
+    <string name="title_activity_select">SelectActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="not_found">Not Found</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="done">DONE</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="mark_absent">Mark Absent</string>
+    <string name="absent_students">List of absent Student:</string>
+    <string name="set_pass">Password</string>
+    <string name="set_pass_info">Set password for WatchDroid</string>
+
+</resources>
